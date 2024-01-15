@@ -142,6 +142,7 @@ svg.brand path {
   background-color: #f2f6fc;
   text-align: center;
   padding-bottom: 140px;
+  
 }
 
 .section-5 h4 {
@@ -433,10 +434,10 @@ footer .icons a {
     margin: 0px;
     padding: 0px;
   }
-  /* .container{
+  .container{
     margin: 0;
     padding: 0;
-  } */
+  }
   .phone{
     display: none;
    }
@@ -447,5 +448,14 @@ footer .icons a {
  }
  .intro-section .row{
     margin: 5px;
+ }
+ .section-5 .box{
+  justify-content: center;
+  margin: 5px;
+  
+ }
+ footer{
+  display: flex;
+  justify-content: center;
  }
 }
