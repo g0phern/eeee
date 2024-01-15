@@ -434,10 +434,13 @@ footer .icons a {
     margin: 0px;
     padding: 0px;
   }
-  .container{
+  .burg{
+    padding-right: 10px;
+  }
+  /* .container{
     margin: 0;
     padding: 0;
-  }
+  } */
   .phone{
     display: none;
    }
@@ -459,6 +462,6 @@ footer .icons a {
   justify-content: center;
  }
 .linija{
-  max-width: 102%;
+  max-width: 99%;
 }
 }
